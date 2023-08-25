@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there, I'm NicolasCN 👋
+
+
+<table>
+  <tr>
+    <td valign="center">
+      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+  </tr>
+</table>
+
 
 <!--
 **NicolassCN/NicolassCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
