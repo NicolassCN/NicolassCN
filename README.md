@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td valign="center">
-      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+      🎓 I am currently pursuing my <b>Bachelor's in Computer Science Engineering</b>.
   </tr>
 </table>
 
