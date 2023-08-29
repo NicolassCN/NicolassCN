@@ -10,7 +10,7 @@
 
 ## Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolassCN&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="NicolassCN" /> 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolassCN&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&locale=en&layout=compact&hide_border=true" alt="NicolassCN" /> 
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolassCN&theme=highcontrast&hide_border=true" alt="NicolassCN" />
 </p>
