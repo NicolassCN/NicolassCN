@@ -1,17 +1,14 @@
 # Hi there, I'm NicolasCN 👋
 
 
-<table>
+<table style="width: 100%">
   <tr>
     <td valign="center">
       🎓 I am currently pursuing my <b>Bachelor's in Computer Science Engineering</b>.
-  </tr>
-</table>
-
-<table>
-  <tr>
+    </td>
     <td valign="center">
       📚 Keen on <b>DeFi</b> and <b>Blockchain</b> technologies.
+    </td>
   </tr>
 </table>
 
@@ -26,6 +23,12 @@
 <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" alt="CSS3" />
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React" />
 <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" alt="Node.js" />
+<img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" alt="MySQL" />
+<img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" alt="Git" />
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" alt="GitHub" />
+<img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown" alt="Markdown" />
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code" alt="Visual Studio Code" />
+</p>
 
 
 ## Stats📈
@@ -37,18 +40,3 @@
 
 </p>
 
-
-<!--
-**NicolassCN/NicolassCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
