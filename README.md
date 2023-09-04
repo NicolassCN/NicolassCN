@@ -15,7 +15,18 @@
   </tr>
 </table>
 
-##
+## Languages and Tools🛠️
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python" />
+<img src="https://img.shields.io/badge/-C-000000?style=flat&logo=c" alt="C" />
+<img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B" alt="C++" />
+<img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java" alt="Java" />
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5" />
+<img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" alt="CSS3" />
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React" />
+<img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" alt="Node.js" />
+
 
 ## Stats📈
 <p align="center">
