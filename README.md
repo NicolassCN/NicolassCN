@@ -6,6 +6,11 @@
     <td valign="center">
       🎓 I am currently pursuing my <b>Bachelor's in Computer Science Engineering</b>.
     </td>
+  </tr>
+</table>
+
+<table style="width: 100%">
+  <tr>
     <td valign="center">
       📚 Keen on <b>DeFi</b> and <b>Blockchain</b> technologies.
     </td>
@@ -27,7 +32,6 @@
 <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" alt="Git" />
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" alt="GitHub" />
 <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown" alt="Markdown" />
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code" alt="Visual Studio Code" />
 </p>
 
 
@@ -40,3 +44,18 @@
 
 </p>
 
+
+<!--
+**NicolassCN/NicolassCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
