@@ -49,5 +49,3 @@
 <a href="https://www.instagram.com/nicolascn_/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram" alt="Instagram"/></a>
 </p>
 
-
-
